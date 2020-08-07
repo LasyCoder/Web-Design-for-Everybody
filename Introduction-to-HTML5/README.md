@@ -8,6 +8,6 @@ This course will appeal to a wide variety of people, but specifically those who 
 
 This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/
 
-[Final Project Assignment](https://www.coursera.org/learn/html/peer/hIMvz/final-project)
+~ [Final Project Assignment](https://www.coursera.org/learn/html/peer/hIMvz/final-project)
 
-[Solution](https://lasycoder.github.io/Web-Design-for-Everybody/Introduction-to-HTML5/)
+~ [Solution](https://lasycoder.github.io/Web-Design-for-Everybody/Introduction-to-HTML5/)
