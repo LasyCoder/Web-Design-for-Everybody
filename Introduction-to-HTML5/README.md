@@ -10,4 +10,8 @@ This is the first course in the Web Design For Everybody specialization. Subsequ
 
 - [Final Project Assignment](https://www.coursera.org/learn/html/peer/hIMvz/final-project)
 
+<<<<<<< HEAD
 - [Solution](https://lasycoder.github.io/Web-Design-for-Everybody/Introduction-to-HTML5/)
+=======
+- [Solution](https://lasycoder.github.io/Web-Design-for-Everybody/Introduction-to-HTML5/)
+>>>>>>> 2007587a90f07e72c858b6c7efea14c9f123aba1
