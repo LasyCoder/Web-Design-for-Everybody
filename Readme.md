@@ -8,18 +8,18 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ## Courses in this Specialization
 
-### - **Course 1.  Introduction to HTML5**
+### _ **Course 1.  Introduction to HTML5**
 [Click Here](https://coursera.org/share/4c7b0a7bd2ddaafa5b17df2e90a35563)
    
-### - **Course 2.  Introduction to CSS3**
+### _ **Course 2.  Introduction to CSS3**
 [Click Here](https://coursera.org/share/3d23a7de9f4bc4a5877e76a9445c3331)
 
-### - **Course 3.  Interactivity with Javascript**
+### _ **Course 3.  Interactivity with Javascript**
 
-### - **Course 4.  Advanced Styling with Responsive Design**
+### _ **Course 4.  Advanced Styling with Responsive Design**
 [Click Here](https://coursera.org/share/237e50be0eed39c631904e1a9763bf7a)
 
-### - **Course 5.  Web Design For Everybody Capstone**
+### _ **Course 5.  Web Design For Everybody Capstone**
 
 
 
