@@ -13,5 +13,5 @@ This is the first course in the Web Design For Everybody specialization. Subsequ
 
 - [Solution](https://lasycoder.github.io/Web-Design-for-Everybody/Introduction-to-HTML5/)
 
-### Tp view my Certificate
+### To view my Certificate
 [Click Here](https://coursera.org/share/4c7b0a7bd2ddaafa5b17df2e90a35563)
