@@ -36,6 +36,8 @@ To ensure that sites do not put up  barriers for people with cognitive and/or ph
 
 This course introduce the basics of the JavaScript language. Cover concepts such as variables, looping, functions, and even a little bit about debugging tools. Understand how the Document Object Model (DOM) is used by JavaScript to identify and modify specific parts of a page.  After the course, able to react to DOM Events and dynamically alter the contents and style of their page.   The class culminate in a  final project - the creation of an interactive HTML5 form that accepts and verifies input.
 
+- **[For more Detail](https://github.com/LasyCoder/Web-Design-for-Everybody/tree/gh-pages/Interactivity-with-JavaScript/)**
+
 - **To view my Certicate [Click Here](https://coursera.org/share/211453bc3622d7d50918489774dce834)**
 
 ### Advanced Styling with Responsive Design
