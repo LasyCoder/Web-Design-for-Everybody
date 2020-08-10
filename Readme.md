@@ -22,7 +22,7 @@ This course will appeal to a wide variety of people, but specifically those who 
 
 - **[For more Detail](https://github.com/LasyCoder/Web-Design-for-Everybody/tree/gh-pages/Introduction-to-HTML5/)**
 
-- **For my Certificate [Click Here](https://coursera.org/share/4c7b0a7bd2ddaafa5b17df2e90a35563)**
+- **To view my Certificate [Click Here](https://coursera.org/share/4c7b0a7bd2ddaafa5b17df2e90a35563)**
 
 ### Introduction to CSS3
 
@@ -30,11 +30,13 @@ To ensure that sites do not put up  barriers for people with cognitive and/or ph
 
 - **[For more Detail](https://github.com/LasyCoder/Web-Design-for-Everybody/tree/gh-pages/Introduction-to-CSS3/)**
 
-- **For my Certificate [Click Here](https://coursera.org/share/3d23a7de9f4bc4a5877e76a9445c3331)**
+- **To view my Certificate [Click Here](https://coursera.org/share/3d23a7de9f4bc4a5877e76a9445c3331)**
 
 ### Interactivity with JavaScript
 
 This course introduce the basics of the JavaScript language. Cover concepts such as variables, looping, functions, and even a little bit about debugging tools. Understand how the Document Object Model (DOM) is used by JavaScript to identify and modify specific parts of a page.  After the course, able to react to DOM Events and dynamically alter the contents and style of their page.   The class culminate in a  final project - the creation of an interactive HTML5 form that accepts and verifies input.
+
+- **To view my Certicate [Click Here](https://coursera.org/share/211453bc3622d7d50918489774dce834)**
 
 ### Advanced Styling with Responsive Design
 
@@ -43,7 +45,7 @@ This course expand upon the basic knowledge of CSS3 to include topics such as wi
 - Create sites that behave across a range of platforms
 - Utilize existing design frameworks such as Bootstrap
 
-- **For my Certicate [Click Here](https://coursera.org/share/237e50be0eed39c631904e1a9763bf7a)**
+- **To view my Certicate [Click Here](https://coursera.org/share/237e50be0eed39c631904e1a9763bf7a)**
 
 ### Web Design for Everybody Capstone
 
